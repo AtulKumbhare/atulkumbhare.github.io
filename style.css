@@ -17,15 +17,6 @@ html {
     margin: auto;
 }
 
-/* h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: 'Montserrat', sans-serif;
-} */
-
 /* ============================================  Header section  ============================================= */
 #header {
     text-align: center;
@@ -145,8 +136,6 @@ h6 {
 }
 
 /* Mouse Scrolling Effect ends here */
-/* Parrlax */
-/* About section */
 
 /* ========================================  Navigation Menu Section    ============================================= */
 #navbar {
@@ -160,7 +149,6 @@ h6 {
     top: 0;
     text-transform: capitalize;
     z-index: 1;
-    /* display: none; */
 }
 
 .logo {
@@ -335,17 +323,6 @@ h6 {
     overflow: hidden;
 }
 
-/* .center-line::before {
-    content: " ";
-    position: absolute;
-    top: 1860px;
-    bottom: -1900px;
-    left: 50%;
-    width: 2px;
-    margin-left: -1.5px;
-    background-color: #eee;
-    z-index: -1;
-} */
 .education ul {
     list-style: none;
 }
