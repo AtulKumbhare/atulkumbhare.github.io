@@ -245,7 +245,7 @@ html {
     font-weight: 700;
     transition: background-color ease 0.5s;
     text-decoration: none;
-    box-shadow: 5px 5px 12px 0 #333;
+
 }
 
 #bottom-spacing {
@@ -271,7 +271,7 @@ html {
     border: 1px solid #ddd;
     margin-top: 40px;
     margin-left: 40px;
-    box-shadow: 5px 5px 12px 0 #333;
+
 }
 
 .perspnal-details {
@@ -316,7 +316,6 @@ html {
     height: 110px;
     margin: auto;
     border-radius: 100%;
-    box-shadow: 5px 5px 12px 0px #333;
 }
 
 .center-line {
@@ -524,7 +523,7 @@ html {
     box-sizing: border-box;
     cursor: pointer;
     transition: background-color 0.5s ease;
-    box-shadow: 5px 5px 12px 0 #333;
+
 }
 
 .contact-icon:hover {
@@ -561,7 +560,7 @@ html {
     color: white;
     cursor: pointer;
     margin-top: 20px;
-    box-shadow: 5px 5px 12px 0 #333;
+
 }
 
 .contact-form textarea {
